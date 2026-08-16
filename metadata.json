@@ -1,0 +1,6 @@
+{
+  "name": "Wavy - Cox's Bazar Hospitality & Extranet",
+  "description": "Hospitality marketplace, 30% advance booking engine, and local hotel management extranet for Cox's Bazar, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
